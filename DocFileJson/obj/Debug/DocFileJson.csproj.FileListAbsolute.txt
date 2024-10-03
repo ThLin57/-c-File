@@ -1,0 +1,13 @@
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.Form1.resources
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.Properties.Resources.resources
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\DocFileJson\bin\Debug\DocFileJson.exe.config
+C:\Users\LUAN\source\repos\DocFileJson\bin\Debug\DocFileJson.exe
+C:\Users\LUAN\source\repos\DocFileJson\bin\Debug\DocFileJson.pdb
+C:\Users\LUAN\source\repos\DocFileJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LUAN\source\repos\DocFileJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJ.160B9C4F.Up2Date
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.exe
+C:\Users\LUAN\source\repos\DocFileJson\obj\Debug\DocFileJson.pdb

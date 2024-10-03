@@ -1,0 +1,111 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "SinhVien": [
+    {
+      "MSSV": "2212410",
+      "HoTen": "TrầN Vũ Thành",
+      "NgaySinh": "05/07/2004",
+      "CMND": "0123466789",
+      "DiaChi": "DaLat",
+      "GioiTinh": "nam",
+      "Ten": "Luân",
+      "SDT": "0999999999",
+      "MonHoc": [
+        "Mạng máy tính",
+        "Hệ điều hành",
+        "Lập trình CSDL",
+        "Lập trình Mạng",
+        "Đồ án cơ sở",
+        "Phương pháp NCKH",
+        "Lập trình di động",
+        "An toàn và bảo mật hệ thống"
+      ]
+    },
+    {
+      "MSSV": "2212411",
+      "HoTen": "Nguyễn Thị ",
+      "NgaySinh": "12/03/2003",
+      "CMND": "0987654321",
+      "DiaChi": "Hà Nội",
+      "GioiTinh": "nu",
+      "Ten": "Mai",
+      "SDT": "0888888888",
+      "MonHoc": [
+        "Mạng máy tính",
+        "Hệ điều hành",
+        "Lập trình CSDL",
+        "Lập trình Mạng",
+        "Đồ án cơ sở",
+        "Phương pháp NCKH",
+        "Lập trình di động",
+        "An toàn và bảo mật hệ thống"
+      ]
+    },
+    {
+      "MSSV": "2212412",
+      "HoTen": "Phạm Văn ",
+      "NgaySinh": "22/11/2002",
+      "CMND": "1231231234",
+      "DiaChi": "Hồ Chí Minh",
+      "GioiTinh": "nam",
+      "Ten": "Hùng",
+      "SDT": "0777777777",
+      "MonHoc": [
+        "Mạng máy tính",
+        "Hệ điều hành",
+        "Lập trình CSDL",
+        "Lập trình Mạng",
+        "Đồ án cơ sở",
+        "Phương pháp NCKH",
+        "Lập trình di động",
+        "An toàn và bảo mật hệ thống"
+      ]
+    },
+    {
+      "MSSV": "2212413",
+      "HoTen": "Lê Thị ",
+      "NgaySinh": "30/08/2001",
+      "CMND": "3213213210",
+      "DiaChi": "Đà Nẵng",
+      "GioiTinh": "nu",
+      "Ten": "Hồng",
+      "SDT": "0666666666",
+      "MonHoc": [
+        "Mạng máy tính",
+        "Hệ điều hành",
+        "Lập trình CSDL",
+        "Lập trình Mạng",
+        "Đồ án cơ sở",
+        "Phương pháp NCKH",
+        "Lập trình di động",
+        "An toàn và bảo mật hệ thống"
+      ]
+    },
+    {
+      "MSSV": "2212414",
+      "HoTen": "Trần Văn ",
+      "NgaySinh": "15/01/2000",
+      "CMND": "4564564567",
+      "DiaChi": "Cần Thơ",
+      "GioiTinh": "nam",
+      "Ten": "Bình",
+      "SDT": "0555555555",
+      "MonHoc": [
+        "Mạng máy tính",
+        "Hệ điều hành",
+        "Lập trình CSDL",
+        "Lập trình Mạng",
+        "Đồ án cơ sở",
+        "Phương pháp NCKH",
+        "Lập trình di động",
+        "An toàn và bảo mật hệ thống"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    {
+      "sinhvien": [
+        {
+          "mssv": "2110001",
+          "hotenlot": "Nguyễn Xuân",
+          "ten": "Thắng",
+          "ngaysinh": "12/12/2003",
+          "socmnd": "122000001",
+          "sdt": "0324100009",
+          "diachi": "Sài Gòn",
+          "gioitinh": true,
+          "monhocdk": [ "Đồ án cơ sơ", "An toàn và bảo mật hệ thống", "Lập trình trên thiết bị di động" ]
+        }
+      
+      ]
+    }

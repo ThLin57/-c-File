@@ -1,0 +1,131 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "sinhvien": [
+    {
+      "mssv": "2110001",
+      "hotenlot": "Nguyễn Xuân",
+      "ten": "Thắng",
+      "ngaysinh": "12/12/2003",
+      "lop": "CTK45",
+      "socmnd": "122000001",
+      "sdt": "0324100009",
+      "diachi": "Sài Gòn",
+      "gioitinh": true,
+      "monhocdk": [ "Đồ án cơ sơ", "An toàn và bảo mật hệ thống", "Lập trình trên thiết bị di động" ]
+    },
+    {
+      "mssv": "2210001",
+      "hotenlot": "Trần Hoài",
+      "ten": "Nam",
+      "ngaysinh": "09/27/2004",
+      "lop": "CTK46",
+      "socmnd": "123000001",
+      "sdt": "0329100001",
+      "diachi": "Đà Lạt",
+      "gioitinh": true,
+      "monhocdk": [ "Mạng máy tính", "Lập trình mạng", "Hệ điều hành" ]
+    },
+    {
+      "mssv": "2210002",
+      "hotenlot": "Nguyễn Trường",
+      "ten": "Sinh",
+      "ngaysinh": "10/10/2004",
+      "lop": "CTK46",
+      "socmnd": "123000002",
+      "sdt": "0924100000",
+      "diachi": "Sài Gòn",
+      "gioitinh": true,
+      "monhocdk": [ "Mạng máy tính", "Lập trình CSDL", "Đồ án cơ sở", "Phương pháp NCKH" ]
+    },
+    {
+      "mssv": "2210003",
+      "hotenlot": "Nguyễn Thị Kim",
+      "ten": "Thuỳ",
+      "ngaysinh": "09/05/2004",
+      "lop": "CTK46",
+      "socmnd": "123000003",
+      "sdt": "0984100003",
+      "diachi": "Hà Nội",
+      "gioitinh": false,
+      "monhocdk": [ "Lập trình CSDL", "An toàn và bảo mật hệ thống", "Đồ án cơ sở" ]
+    },
+    {
+      "mssv": "2210004",
+      "hotenlot": "Nguyễn Hoàng",
+      "ten": "Anh",
+      "ngaysinh": "02/29/2004",
+      "lop": "CTK46",
+      "socmnd": "123000004",
+      "sdt": "0724100004",
+      "diachi": "Hưng Yên",
+      "gioitinh": true,
+      "monhocdk": [ "Mạng máy tính", "Hệ điều hành", "Đồ án cơ sở", "Lập trình mạng" ]
+    },
+    {
+      "mssv": "2210005",
+      "hotenlot": "Nguyễn Thiên",
+      "ten": "Nam",
+      "ngaysinh": "09/27/2004",
+      "lop": "CTK46",
+      "socmnd": "123000005",
+      "sdt": "0329100001",
+      "diachi": "Đà Lạt",
+      "gioitinh": true,
+      "monhocdk": [ "Mạng máy tính", "Lập trình mạng", "Hệ điều hành" ]
+    },
+    {
+      "mssv": "2310001",
+      "hotenlot": "Nguyễn Trường",
+      "ten": "Giang",
+      "ngaysinh": "04/30/2005",
+      "lop": "CTK47",
+      "socmnd": "124000001",
+      "sdt": "0984100005",
+      "diachi": "Đà Lạt",
+      "gioitinh": true,
+      "monhocdk": [ "Lập trình trên thiết bị di động", "Đồ án cơ sở" ]
+    },
+    {
+      "mssv": "2310002",
+      "hotenlot": "Lê Thuỳ Lan",
+      "ten": "Chi",
+      "ngaysinh": "09/27/2005",
+      "lop": "CTK47",
+      "socmnd": "124000002",
+      "sdt": "0324100004",
+      "diachi": "Đà Lạt",
+      "gioitinh": false,
+      "monhocdk": [ "Mạng máy tính", "Hệ điều hành", "Lập trình mạng" ]
+    },
+    {
+      "mssv": "2410001",
+      "hotenlot": "Hứa Duy",
+      "ten": "Băng",
+      "ngaysinh": "10/20/2006",
+      "lop": "CTK48",
+      "socmnd": "125000001",
+      "sdt": "0624000011",
+      "diachi": "Hà Nội",
+      "gioitinh": true,
+      "monhocdk": [ "Lập trình CSDL", "Lập trình mạng" ]
+    },
+    {
+      "mssv": "2410002",
+      "hotenlot": "Trần Ngân",
+      "ten": "Nguyệt",
+      "ngaysinh": "01/30/2006",
+      "lop": "CTK48",
+      "socmnd": "125000002",
+      "sdt": "0924100011",
+      "diachi": "Hưng Yên",
+      "gioitinh": false,
+      "monhocdk": [ "Lập trình CSDL", "Hệ điều hành", "An toàn và bảo mật hệ thống" ]
+    }
+  ]
+}
