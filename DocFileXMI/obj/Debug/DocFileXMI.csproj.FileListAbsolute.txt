@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\DocFileXMI\bin\Debug\DocFileXMI.exe.config
+C:\Users\LUAN\source\repos\DocFileXMI\bin\Debug\DocFileXMI.exe
+C:\Users\LUAN\source\repos\DocFileXMI\bin\Debug\DocFileXMI.pdb
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.Form1.resources
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.Properties.Resources.resources
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.exe
+C:\Users\LUAN\source\repos\DocFileXMI\obj\Debug\DocFileXMI.pdb

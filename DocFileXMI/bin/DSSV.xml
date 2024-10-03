@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+<sinhvien>
+   <mssv>2110001</mssv>
+   <hotenlot>Nguyễn Xuân</hotenlot>
+   <ten>Thắng</ten>
+   <ngaysinh>12/12/2003</ngaysinh>
+   <lop>CTK45</lop>
+   <socmnd>122000001</socmnd>
+   <sdt>0324100009</sdt>
+   <diachi>Sài Gòn</diachi>
+   <gioitinh>true</gioitinh>
+   <monhocdk>
+      <item>Đồ án cơ sơ</item>
+      <item>An toàn và bảo mật hệ thống</item>
+      <item>Lập trình trên thiết bị di động</item>
+   </monhocdk>
+</sinhvien>
+
+
+
+</root>
