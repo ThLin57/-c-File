@@ -1,0 +1,5 @@
+﻿2212410,TrầN Vũ Thành,Luân,05/07/2004,0123466789,0999999999,DaLat,Nam,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212411,Nguyễn Thị ,Mai,12/03/2003,0987654321,0888888888,Hà Nội,Nữ,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212412,Phạm Văn ,Hùng,22/11/2002,1231231234,0777777777,Hồ Chí Minh,Nam,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212413,Lê Thị ,Hồng,30/08/2001,3213213210,0666666666,Đà Nẵng,Nữ,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212414,Trần Văn ,Bình,15/01/2000,4564564567,0555555555,Cần Thơ,Nam,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống

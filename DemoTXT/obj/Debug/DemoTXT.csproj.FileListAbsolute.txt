@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\DemoTXT\bin\Debug\DemoTXT.exe.config
+C:\Users\LUAN\source\repos\DemoTXT\bin\Debug\DemoTXT.exe
+C:\Users\LUAN\source\repos\DemoTXT\bin\Debug\DemoTXT.pdb
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.Form1.resources
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.Properties.Resources.resources
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.exe
+C:\Users\LUAN\source\repos\DemoTXT\obj\Debug\DemoTXT.pdb

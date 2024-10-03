@@ -1,0 +1,5 @@
+﻿2212410,TrầN Vũ Thành,05/07/2004,0123466789,DaLat,nam,Luân,0999999999,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212411,Nguyễn Thị ,12/03/2003,0987654321,Hà Nội,nu,Mai,0888888888,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212412,Phạm Văn ,22/11/2002,1231231234,Hồ Chí Minh,nam,Hùng,0777777777,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212413,Lê Thị ,30/08/2001,3213213210,Đà Nẵng,nu,Hồng,0666666666,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống
+2212414,Trần Văn ,15/01/2000,4564564567,Cần Thơ,nam,Bình,0555555555,Mạng máy tính;Hệ điều hành;Lập trình CSDL;Lập trình Mạng;Đồ án cơ sở;Phương pháp NCKH;Lập trình di động;An toàn và bảo mật hệ thống.Viet doan code doc file 
